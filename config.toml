@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://urbanlivingjournal.com/"
 languageCode = "en-us"
 title = "Urban Living Journal"
-theme = "liva"
+theme = "ananke"
