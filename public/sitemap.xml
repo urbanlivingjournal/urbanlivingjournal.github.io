@@ -3,26 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://urbanlivingjournal.com/posts/my-first-post-0610/</loc>
-    <lastmod>2021-06-10T11:17:26-07:00</lastmod>
+    <loc>https://urbanlivingjournal.com/blog/1.messy_persons_takeaway/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://urbanlivingjournal.com/posts/</loc>
-    <lastmod>2021-06-10T11:17:26-07:00</lastmod>
+    <loc>https://urbanlivingjournal.com/blog/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://urbanlivingjournal.com/</loc>
-    <lastmod>2021-06-10T11:17:26-07:00</lastmod>
+    <loc>https://urbanlivingjournal.com/categories/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://urbanlivingjournal.com/categories/</loc>
+    <loc>https://urbanlivingjournal.com/tags/life-hacks/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://urbanlivingjournal.com/tags/</loc>
+    <loc>https://urbanlivingjournal.com/categories/life-hacks/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/tags/organization/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/tags/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/about/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://urbanlivingjournal.com/search/</loc>
   </url>
   
 </urlset>

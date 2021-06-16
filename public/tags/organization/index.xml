@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization on Urban Living Journal</title>
+    <link>https://urbanlivingjournal.com/tags/organization/</link>
+    <description>Recent content in Organization on Urban Living Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://urbanlivingjournal.com/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Messy Person’s Takeaway on Home Organization</title>
+      <link>https://urbanlivingjournal.com/blog/1.messy_persons_takeaway/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://urbanlivingjournal.com/blog/1.messy_persons_takeaway/</guid>
+      <description>You are not reading the title wrong; this is a reflection that I, as a messy person, concluded based on my recent success story in tidying up my apartment during pandemic.</description>
+    </item>
+    
+  </channel>
+</rss>
